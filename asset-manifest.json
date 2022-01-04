@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sourabhchess.github.io/csb-cvvps/static/css/main.e76dd279.chunk.css",
+    "main.js": "https://sourabhchess.github.io/csb-cvvps/static/js/main.6c56f26f.chunk.js",
+    "main.js.map": "https://sourabhchess.github.io/csb-cvvps/static/js/main.6c56f26f.chunk.js.map",
+    "runtime-main.js": "https://sourabhchess.github.io/csb-cvvps/static/js/runtime-main.fcca535c.js",
+    "runtime-main.js.map": "https://sourabhchess.github.io/csb-cvvps/static/js/runtime-main.fcca535c.js.map",
+    "static/js/2.2840d473.chunk.js": "https://sourabhchess.github.io/csb-cvvps/static/js/2.2840d473.chunk.js",
+    "static/js/2.2840d473.chunk.js.map": "https://sourabhchess.github.io/csb-cvvps/static/js/2.2840d473.chunk.js.map",
+    "index.html": "https://sourabhchess.github.io/csb-cvvps/index.html",
+    "static/css/main.e76dd279.chunk.css.map": "https://sourabhchess.github.io/csb-cvvps/static/css/main.e76dd279.chunk.css.map",
+    "static/js/2.2840d473.chunk.js.LICENSE.txt": "https://sourabhchess.github.io/csb-cvvps/static/js/2.2840d473.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcca535c.js",
+    "static/js/2.2840d473.chunk.js",
+    "static/css/main.e76dd279.chunk.css",
+    "static/js/main.6c56f26f.chunk.js"
+  ]
+}
